@@ -1,0 +1,1563 @@
+fileFormatVersion: 2
+guid: c745ee4e077b04c428bf59068717f7f5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: palavras_0
+    21300002: palavras_1
+    21300004: palavras_2
+    21300006: palavras_3
+    21300008: palavras_4
+    21300010: palavras_5
+    21300012: palavras_6
+    21300014: palavras_7
+    21300016: palavras_8
+    21300018: palavras_9
+    21300020: palavras_10
+    21300022: palavras_11
+    21300024: palavras_12
+    21300026: palavras_13
+    21300028: palavras_14
+    21300030: palavras_15
+    21300032: palavras_16
+    21300034: palavras_17
+    21300036: palavras_18
+    21300038: palavras_19
+    21300040: palavras_20
+    21300042: palavras_21
+    21300044: palavras_22
+    21300046: palavras_23
+    21300048: palavras_24
+    21300050: palavras_25
+    21300052: palavras_26
+    21300054: palavras_27
+    21300056: palavras_28
+    21300058: palavras_29
+    21300060: palavras_30
+    21300062: palavras_31
+    21300064: palavras_32
+    21300066: palavras_33
+    21300068: palavras_34
+    21300070: palavras_35
+    21300072: palavras_36
+    21300074: palavras_37
+    21300076: palavras_38
+    21300078: palavras_39
+    21300080: palavras_40
+    21300082: palavras_41
+    21300084: palavras_42
+    21300086: palavras_43
+    21300088: palavras_44
+    21300090: palavras_45
+    21300092: palavras_46
+    21300094: palavras_47
+    21300096: palavras_48
+    21300098: palavras_49
+    21300100: palavras_50
+    21300102: palavras_51
+    21300104: palavras_52
+    21300106: palavras_53
+    21300108: palavras_54
+    21300110: palavras_55
+    21300112: palavras_56
+    21300114: palavras_57
+    21300116: palavras_58
+    21300118: palavras_59
+    21300120: palavras_60
+    21300122: palavras_61
+    21300124: palavras_62
+    21300126: palavras_63
+    21300128: palavras_64
+    21300130: palavras_65
+    21300132: palavras_66
+    21300134: palavras_67
+    21300136: palavras_68
+    21300138: palavras_69
+    21300140: palavras_70
+    21300142: palavras_71
+    21300144: palavras_72
+    21300146: palavras_73
+    21300148: palavras_74
+    21300150: palavras_75
+    21300152: palavras_76
+    21300154: palavras_77
+    21300156: palavras_78
+    21300158: palavras_79
+    21300160: palavras_80
+    21300162: palavras_81
+    21300164: palavras_82
+    21300166: palavras_83
+    21300168: palavras_84
+    21300170: palavras_85
+    21300172: palavras_86
+    21300174: palavras_87
+    21300176: palavras_88
+    21300178: palavras_89
+    21300180: palavras_90
+    21300182: palavras_91
+    21300184: palavras_92
+    21300186: palavras_93
+    21300188: palavras_94
+    21300190: palavras_95
+    21300192: palavras_96
+    21300194: palavras_97
+    21300196: palavras_98
+    21300198: palavras_99
+    21300200: palavras_100
+    21300202: palavras_101
+    21300204: palavras_102
+    21300206: palavras_103
+    21300208: palavras_104
+    21300210: palavras_105
+    21300212: palavras_106
+    21300214: palavras_107
+    21300216: palavras_108
+    21300218: palavras_109
+    21300220: palavras_110
+    21300222: palavras_111
+    21300224: palavras_112
+    21300226: palavras_113
+    21300228: palavras_114
+    21300230: palavras_115
+    21300232: palavras_116
+    21300234: palavras_117
+    21300236: palavras_118
+    21300238: palavras_119
+    21300240: palavras_120
+    21300242: palavras_121
+    21300244: palavras_122
+    21300246: palavras_123
+    21300248: palavras_124
+    21300250: palavras_125
+    21300252: palavras_126
+    21300254: palavras_127
+    21300256: palavras_128
+    21300258: palavras_129
+    21300260: palavras_130
+    21300262: palavras_131
+    21300264: palavras_132
+    21300266: palavras_133
+    21300268: palavras_134
+    21300270: palavras_135
+    21300272: palavras_136
+    21300274: palavras_137
+    21300276: palavras_138
+    21300278: palavras_139
+    21300280: palavras_140
+    21300282: palavras_141
+    21300284: palavras_142
+    21300286: palavras_143
+    21300288: palavras_144
+    21300290: palavras_145
+    21300292: palavras_146
+    21300294: palavras_147
+    21300296: palavras_148
+    21300298: palavras_149
+    21300300: palavras_150
+    21300302: palavras_151
+    21300304: palavras_152
+    21300306: palavras_153
+    21300308: palavras_154
+    21300310: palavras_155
+    21300312: palavras_156
+    21300314: palavras_157
+    21300316: palavras_158
+    21300318: palavras_159
+    21300320: palavras_160
+    21300322: palavras_161
+    21300324: palavras_162
+    21300326: palavras_163
+    21300328: palavras_164
+    21300330: palavras_165
+    21300332: palavras_166
+    21300334: palavras_167
+    21300336: palavras_168
+    21300338: palavras_169
+    21300340: palavras_170
+    21300342: palavras_171
+    21300344: palavras_172
+    21300346: palavras_173
+    21300348: palavras_174
+    21300350: palavras_175
+    21300352: palavras_176
+    21300354: palavras_177
+    21300356: palavras_178
+    21300358: palavras_179
+    21300360: palavras_180
+    21300362: palavras_181
+    21300364: palavras_182
+    21300366: palavras_183
+    21300368: palavras_184
+    21300370: palavras_185
+    21300372: palavras_186
+    21300374: palavras_187
+    21300376: palavras_188
+    21300378: palavras_189
+    21300380: palavras_190
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: palavras_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 926
+        width: 165
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d44ce4ae24ed141b68cfa17ab13558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 929
+        width: 182
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73675047038acc64d8f54765bf8bd0d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 927
+        width: 398
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd74f7e6611a1784aa450da1e93f17b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 929
+        width: 197
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e416e9c637714c86adb93aee864bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 927
+        width: 186
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e52e0ee7d85ae42a86fa3474fe5795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 851
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47feb3729a7f29458d65e4d9ebf0726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 850
+        width: 154
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c28c27046175a4e99054552f221d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_22
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 850
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489ef32f45c0a44484a84c76fc012d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_24
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 856
+        width: 179
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f73768b142c3e42ae7977d214cc876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_28
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 853
+        width: 205
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef42430c32ee0446814795467f72b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 775
+        width: 243
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa153a972dc29654a9346ebfae1f30e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_31
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 776
+        width: 256
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a9e602aaf70644c86fbfffdde1710c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 777
+        width: 273
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540ed986a6341548b2d8539be1f7bc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_39
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 777
+        width: 285
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5205d95368219447a163e4a0a243a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_42
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 828
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3150c771786ee045918f6558fb06e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 701
+        width: 201
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed5ce38864b9a46b66e7c27fccf8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 701
+        width: 191
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12b7fa36a30e647b1b10afbc040ed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 699
+        width: 165
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633dd372682ced14db729806732029f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 701
+        width: 314
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f88ccce9c45964690bb88b48ba59ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_55
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 706
+        width: 213
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9939315c6664ab409d19e54a00d50bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_57
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 626
+        width: 259
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e1ecd60cd33824cb38e5d04faf7a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 626
+        width: 302
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c639ec2afda92a5459bef770e50fc230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_62
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 628
+        width: 241
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86195e9eb67756d4a84424d8b6531e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_65
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 623
+        width: 241
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c346a61b00304da62a525b4af5717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 550
+        width: 331
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd4baf0bf8d794786525f17d0a9d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 550
+        width: 461
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783f9452635067e42b23148220320757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_80
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 549
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e685fb175738ff749a9ab29e46136fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_81
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 548
+        width: 220
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65468dfc582ceab4182ac9327717a997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 472
+        width: 249
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1c525cf549b84e8496aa443f35c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_87
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 474
+        width: 156
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5eb46d550042046bada58e496d581f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 473
+        width: 329
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c10ad5a703fa41a4262b3f314ed66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_93
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 479
+        width: 205
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0271b5297baa48be74df07a9fb1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_96
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 479
+        width: 151
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecfc308c89a6e94d975aa9f479542c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 239
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7582554647d7634d9abf54aac73ce9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 398
+        width: 214
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21292515ff0f6f4893873f8b0676939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_104
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 408
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b334fb39fa8374ab3eace8125f58b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_107
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 395
+        width: 190
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b22fb2f1ad3b14ba43e8d6f90652da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_111
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 398
+        width: 287
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020c5924a54d57419ef011a8c26dd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_113
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 394
+        width: 143
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4bbc5255edd1e4781c18cbe81fe251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 325
+        width: 180
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0757043651b2e4fba37a498f3e5d66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 322
+        width: 138
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918385ef0835e741811b4ca6a20fbbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_122
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 323
+        width: 149
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286eec4235338d4a9f760e6c8573291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_126
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 326
+        width: 231
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b1ac0fdba8e54c8c1f91058f1f81c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_130
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 322
+        width: 255
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d98bba09a231f4eb9f7a2c53a62300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_132
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 247
+        width: 370
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81580f9e3133274d921a5834030be54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_137
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 251
+        width: 214
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d029f78892004d80a09bae1319507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_139
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 247
+        width: 195
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa5f634e2da07479562041ae7d23bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_142
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 247
+        width: 275
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4548277596058a4995260c1d2b596be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_151
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 175
+        width: 215
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69934cbff0e5c414f9f08d13ec6277c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_154
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 175
+        width: 194
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c38af66526114aa5cf0254181e94e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_157
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 172
+        width: 214
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b028c2755a32f347ba2c16b1bc18120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_159
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 172
+        width: 150
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c70a4d2281ec439bcbc197502b752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_161
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 171
+        width: 230
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1b3dcb99112f4eac784e11cf945fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_163
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 176
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906185c2e888b9042a7784dc1fb5f355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_167
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 177
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e778b928fce214d9d5f2d62581357c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_168
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 95
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef1302af19b094085f3d9a7f036017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_169
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 98
+        width: 272
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d51d85c2496d34e82d84add7bf828f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_172
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 94
+        width: 228
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5061a8a97589aa4291aaedad4404c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_175
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 94
+        width: 155
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8a70e9040b714882b99cbf2ded37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_181
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 277
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aedadb03063d2438f993c9c58ea626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_186
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 21
+        width: 249
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf55b61ba5268349b093cfeadcf9c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palavras_189
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 23
+        width: 209
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae865c0ff5ef28a4c85cbe873eec5885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2119cdecb4ce4f948aae673e66bb72de
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
