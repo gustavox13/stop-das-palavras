@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - table
+  - table 1
+  - table 2
+  - table 3
+  - table 4
+  - categoria
   layers:
   - Default
   - TransparentFX

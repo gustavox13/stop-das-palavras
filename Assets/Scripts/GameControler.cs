@@ -5,7 +5,9 @@ using UnityEngine;
 public class GameControler : MonoBehaviour
 {
     [SerializeField]
-    private GameObject[] questions = new GameObject[6];
+    private GameObject[] letters = new GameObject[6];
+
+    private Vector3[] oldPosition = new Vector3[12];
 
     [SerializeField]
     private GameObject pacoca;
@@ -15,21 +17,28 @@ public class GameControler : MonoBehaviour
     [SerializeField]
     private GameObject tutorial;
 
-    public int QuantPlay = 0;
+    
 
     [SerializeField]
     private GameObject finalScreen;
 
+    [SerializeField]
+    private GameObject table;
 
+    public int totalPoints;
+
+    private int currentTurn;
 
     private void Awake()
     {
-        ShuffleQuestions();
+        Shuffleletters();
     }
 
     private void Start()
     {
         pacocaAnim = pacoca.GetComponent<Animator>();
+
+        LockColliders();
 
     }
 
@@ -41,27 +50,87 @@ public class GameControler : MonoBehaviour
 
     private void StartTurn() //INICIA TURNO
     {
-
+        UnlockColliders();
     }
 
-    IEnumerator WrongAnswer() //RESPOSTA INCORRETA
+    public void ManagePoints(int currentPoints)
     {
-        pacocaAnim.SetTrigger("wrong");
+     
 
-        yield return new WaitForSeconds(1.5f);
-
-    }
-
-
-    private void ShuffleQuestions()     //EMBARALHAR FRASES
-    {
-        for (int i = 0; i < questions.Length; i++)
+        if (currentTurn < 5)
         {
-            GameObject obj = questions[i];
-            int randomizeArray = Random.Range(0, i);
-            questions[i] = questions[randomizeArray];
-            questions[randomizeArray] = obj;
+            currentTurn++;
+            totalPoints += currentPoints;
+
+            Debug.Log("pontos atuais: " + totalPoints);
+
+
+            //UnlockColliders();
+            table.GetComponent<boxtable>().ResetCount();
+
+            StartTurn();
+
         }
+        else
+        {
+            totalPoints += currentPoints;
+
+            finalScreen.SetActive(true);
+        }
+    }
+
+
+
+
+
+    public void LockColliders()
+    {
+        for (int i = 0; i < letters.Length; i++)
+        {
+            letters[i].GetComponent<BoxCollider2D>().enabled = false;
+        }
+    }
+
+    public void UnlockColliders()
+    {
+        for (int i = 0; i < letters.Length; i++)
+        {
+            if (letters[i].GetComponent<LetterButton>().ChallengeComplete == false)
+            {
+                letters[i].GetComponent<BoxCollider2D>().enabled = true;
+            }
+        }
+    }
+
+
+    private void Shuffleletters()     //EMBARALHAR FRASES
+    {
+
+        //SALVA POSICAO ANTIGA
+        for (int i = 0; i < letters.Length; i++)
+        {
+            oldPosition[i] = new Vector3(letters[i].transform.position.x,
+                                         letters[i].transform.position.y,
+                                         letters[i].transform.position.z);
+        }
+
+        //EMBARALHA ARRAY
+        for (int i = 0; i < letters.Length; i++)
+        {
+            GameObject obj = letters[i];
+            int randomizeArray = Random.Range(0, i);
+            letters[i] = letters[randomizeArray];
+            letters[randomizeArray] = obj;
+        }
+
+
+        //ADD NOVAS POSICOES
+        for (int i = 0; i < letters.Length; i++)
+        {
+            letters[i].transform.position = oldPosition[i];
+        }
+
+
     }
 
 
